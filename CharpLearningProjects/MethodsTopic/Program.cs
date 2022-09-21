@@ -10,6 +10,8 @@ namespace MethodsTopic
     {
         static void Main(string[] args)
         {
+
+            Console.ReadLine();
         }
     }
 }
